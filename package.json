@@ -1,0 +1,15 @@
+{
+  "name": "webserver2",
+  "version": "0.0.1",
+  "description": "Server HTTP/2",
+  "main": "WebServer.js",
+  "devDependencies": {
+    "node-static": "^0.7.7"
+  },
+  "scripts": {
+    "test": "webserver",
+    "start": "node webserver.js"
+  },
+  "author": "Géry Thrasibule",
+  "license": "GPL-3.0"
+}
